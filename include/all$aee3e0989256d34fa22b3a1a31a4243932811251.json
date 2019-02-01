@@ -1,0 +1,28 @@
+{
+    "packages": {
+        "gladney/gcfa-wp-plugin": {
+            "dev-master": {
+                "name": "gladney/gcfa-wp-plugin",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://enlightenedpie@bitbucket.org/enlightenedpie/gcfa-wordpress-plugin.git",
+                    "reference": "f788faaa656df6d247d75eebf9d378053db5bec7"
+                },
+                "time": "2019-01-30T19:48:00+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "David Paul",
+                        "email": "enlightenedpie@users.noreply.github.com"
+                    }
+                ],
+                "description": "Branding and set-up plugin for all GCFA Wordpress sites"
+            }
+        }
+    }
+}
