@@ -1,0 +1,11 @@
+{
+    "name": "Gladney Composer Repository",
+    "homepage": "https://composer.gladneycenter.org",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://enlightenedpie@bitbucket.org/enlightenedpie/gcfa-wordpress-plugin.git"
+        }
+    ],
+    "require-all": true
+}
