@@ -12,7 +12,7 @@
             "type": "package",
             "package": {
                 "name": "gladney/gcfa-wp-plugin",
-                "version": "1.0.0",
+                "version": "1.0.1",
                 "dist": {
                     "type": "zip",
                     "url": "dist/gcfa-wp-plugin.zip"
