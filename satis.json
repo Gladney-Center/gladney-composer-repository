@@ -1,10 +1,23 @@
 {
-    "name": "Gladney Composer Repository",
+    "name": "Gladney",
     "homepage": "https://composer.gladneycenter.org",
+    "archive": {
+        "directory": "dist",
+        "format": "zip",
+        "prefix-url": "https://composer.gladneycenter.org",
+        "skip-dev": true
+    },
     "repositories": [
         {
-            "type": "vcs",
-            "url": "https://enlightenedpie@bitbucket.org/enlightenedpie/gcfa-wordpress-plugin.git"
+            "type": "package",
+            "package": {
+                "name": "gladney/gcfa-wp-plugin",
+                "version": "1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "dist/gcfa-wp-plugin.zip"
+                }
+            }
         }
     ],
     "require-all": true
