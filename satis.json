@@ -12,8 +12,8 @@
             "type": "package",
             "package": {
                 "name": "gladney/gcfa-wp-plugin",
-                "version": "1.0.6",
-                "type": "wordpress-plugin",
+                "version": "1.0.0",
+                "type": "wordpress-muplugin",
                 "dist": {
                     "type": "zip",
                     "url": "../gcfa_wp_plugin/latest.gcfa-wp-plugin.zip"
