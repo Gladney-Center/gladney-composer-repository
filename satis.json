@@ -11,7 +11,7 @@
         {
             "type": "package",
             "package": {
-                "name": "gladney/gcfa-wp-plugin",
+                "name": "gcfa-wp-muplugin",
                 "version": "1.0.0",
                 "type": "wordpress-muplugin",
                 "dist": {
