@@ -12,8 +12,8 @@
             "type": "package",
             "package": {
                 "name": "gcfa-wp-muplugin",
-                "version": "1.0.1",
-                "type": "wordpress-muplugin",
+                "version": "1.0.2",
+                "type": "library",
                 "dist": {
                     "type": "zip",
                     "url": "../gcfa_wp_plugin/latest.gcfa-wp-plugin.zip"
