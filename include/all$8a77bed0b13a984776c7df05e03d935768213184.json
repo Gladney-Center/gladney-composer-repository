@@ -35,8 +35,7 @@
                     "reference": null,
                     "shasum": "b79465f1eb72bb93d7cb39f847cb1e0347c10c18"
                 },
-                "type": "wordpress-plugin",
-                "installation-source": "dist"
+                "type": "wordpress-plugin"
             }
         }
     }
