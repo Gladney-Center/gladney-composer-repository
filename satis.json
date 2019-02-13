@@ -10,15 +10,22 @@
     "repositories": [
         {
             "type": "package",
-            "package": {
-                "name": "gladney/gcfa-wp-plugin",
-                "version": "1.0.16",
-                "type": "wordpress-plugin",
-                "dist": {
-                    "type": "zip",
-                    "url": "../gcfa_wp_plugin/latest.gcfa-wp-plugin.zip"
+            "package": [
+                {
+                    "name": "gladney/gcfa-wp-plugin",
+                    "version": "1.0.16",
+                    "type": "wordpress-plugin"
+                },
+                {
+                    "name": "gladney/gcfa-wp-plugin",
+                    "version": "1.0.17",
+                    "type": "wordpress-plugin",
+                    "dist": {
+                        "type": "zip",
+                        "url": "../gcfa_wp_plugin/latest.gcfa-wp-plugin.zip"
+                    }
                 }
-            }
+            ]
         }
     ],
     "require-all": true
