@@ -29,6 +29,11 @@
                 {
                     "name": "gladney/gcfa-wp-plugin",
                     "version": "1.0.19",
+                    "type": "wordpress-plugin"
+                },
+                {
+                    "name": "gladney/gcfa-wp-plugin",
+                    "version": "1.0.20",
                     "type": "wordpress-plugin",
                     "dist": {
                         "type": "zip",
